@@ -1,0 +1,13 @@
+ERROR: 2019/06/25 11:58:45 mongo.go:53: Unable to connect to local mongo instance!
+ERROR: 2019/06/26 12:33:26 books.go:50: this is an info [{1 123123 First book 0xc00015c440} {2 112312312323123 Second book 0xc00015c460}]
+ERROR: 2019/06/26 12:58:22 user.go:53: ObjectIDs must be exactly 12 bytes long (got 0)
+ERROR: 2019/06/26 12:59:20 user.go:53: ObjectIDs must be exactly 12 bytes long (got 0)
+ERROR: 2019/06/26 13:00:17 user.go:53: ObjectIDs must be exactly 12 bytes long (got 0)
+ERROR: 2019/06/26 13:04:47 user.go:52: ObjectIDs must be exactly 12 bytes long (got 0)
+ERROR: 2019/06/26 13:05:39 user.go:52: not found
+ERROR: 2019/06/26 13:06:45 user.go:52: not found
+ERROR: 2019/06/26 13:07:17 user.go:52: not found
+ERROR: 2019/06/26 13:07:49 user.go:52: not found
+ERROR: 2019/06/26 13:08:39 user.go:52: not found
+ERROR: 2019/06/26 13:15:56 user.go:49: invalid character '}' looking for beginning of object key string
+ERROR: 2019/06/26 14:57:18 user.go:58: not found

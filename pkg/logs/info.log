@@ -1,0 +1,108 @@
+INFO: 2019/06/25 11:57:54 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 11:57:54 mongo.go:22: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 11:57:54 mongo.go:24: enter main - connecting to mongo
+INFO: 2019/06/25 11:58:03 mongo.go:53: Unable to connect to local mongo instance!
+INFO: 2019/06/25 11:58:36 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 11:58:36 mongo.go:22: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 11:58:36 mongo.go:24: enter main - connecting to mongo
+INFO: 2019/06/25 12:01:01 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:01:01 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 12:06:32 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:06:32 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 12:07:16 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:07:16 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 12:09:45 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:09:45 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 12:10:02 user.go:61: &{PUT /users HTTP/1.1 1 1 map[Accept:[*/*] Accept-Encoding:[gzip,deflate] Cache-Control:[no-cache] Connection:[Keep-Alive] Content-Length:[52] Content-Type:[application/json] User-Agent:[Apache-HttpClient/4.5.6 (Java/1.8.0_202-release)]] 0xc00001a240 <nil> 52 [] false localhost:3000 map[] map[] <nil> map[] 127.0.0.1:61538 /users <nil> <nil> <nil> 0xc00016e1b0} &{0xc00001a240 [123 10 32 32 34 117 115 101 114 110 97 109 101 34 58 32 34 116 101 115 116 105 110 103 34 44 10 32 32 34 112 97 115 115 119 111 114 100 34 58 32 34 49 50 51 49 50 52 49 34 10 125] {[123 10 32 32 34 117 115 101 114 110 97 109 101 34 58 32 34 116 101 115 116 105 110 103 34 44 10 32 32 34 112 97 115 115 119 111 114 100 34 58 32 34 49 50 51 49 50 52 49 34 10 125] 53 10 {0x5285f0 true [] <nil> 0} {0x76c2e0 password} <nil> false false} 52 0 {0x5285f0 true [] <nil> 52} <nil> 0 []} <nil>
+INFO: 2019/06/25 12:10:47 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:10:47 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 12:10:49 user.go:32: { testing 1231241} <nil>
+INFO: 2019/06/25 12:11:48 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:11:48 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 12:11:52 user_service.go:25: &{ObjectIdHex("") testing 1231241}
+INFO: 2019/06/25 12:13:24 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:13:24 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 12:14:16 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:14:16 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 12:18:19 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:18:19 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 12:19:03 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:19:03 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 12:23:48 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:23:48 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 12:23:53 hash.go:21: 026dfa71-ae72-470f-a813-c10b7679219e [49 50 51 49 50 52 49 48 50 54 100 102 97 55 49 45 97 101 55 50 45 52 55 48 102 45 97 56 49 51 45 99 49 48 98 55 54 55 57 50 49 57 101]
+INFO: 2019/06/25 12:39:27 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:39:27 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 12:39:37 user.go:28: {  } EOF
+INFO: 2019/06/25 12:40:58 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:40:58 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 12:42:21 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:42:21 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/25 12:42:23 user.go:44: testing
+INFO: 2019/06/25 12:55:47 app.go:28: Server is listening on: 3000
+INFO: 2019/06/25 12:55:47 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 12:33:13 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 12:33:13 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 12:40:01 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 12:40:01 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 12:41:27 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 12:41:27 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 12:43:19 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 12:43:19 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 12:44:31 hash.go:21: 5d0ffde5-d6fd-4726-9bd5-a38e364d7d30 [50 51 52 50 51 52 50 51 52 50 51 52 53 100 48 102 102 100 101 53 45 100 54 102 100 45 52 55 50 54 45 57 98 100 53 45 97 51 56 101 51 54 52 100 55 100 51 48]
+INFO: 2019/06/26 12:54:51 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 12:54:51 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 12:56:33 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 12:56:33 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 12:56:44 user_service.go:37: &{ObjectIdHex("") testing1 $2a$10$Ly1uEzb3YIDaFzrlxk.dbOGjMMke6g8/TpP63YGSik/MWmyYR3Npm||5d0ffde5-d6fd-4726-9bd5-a38e364d7d30}
+INFO: 2019/06/26 12:56:44 hash.go:21: e0435224-acea-414d-aab9-338bd041a7eb [36 50 97 36 49 48 36 76 121 49 117 69 122 98 51 89 73 68 97 70 122 114 108 120 107 46 100 98 79 71 106 77 77 107 101 54 103 56 47 84 112 80 54 51 89 71 83 105 107 47 77 87 109 121 89 82 51 78 112 109 124 124 53 100 48 102 102 100 101 53 45 100 54 102 100 45 52 55 50 54 45 57 98 100 53 45 97 51 56 101 51 54 52 100 55 100 51 48 101 48 52 51 53 50 50 52 45 97 99 101 97 45 52 49 52 100 45 97 97 98 57 45 51 51 56 98 100 48 52 49 97 55 101 98]
+INFO: 2019/06/26 12:57:01 user_service.go:37: &{ObjectIdHex("") testing1 $2a$10$jRJ5g.1BgHZf0CzahmkRWOwZsG84FKvBIobyXCD4qnDkgesjwbiBq||e0435224-acea-414d-aab9-338bd041a7eb}
+INFO: 2019/06/26 12:57:01 hash.go:21: c871d6f3-d28d-439e-b2ee-982d6736a22b [36 50 97 36 49 48 36 106 82 74 53 103 46 49 66 103 72 90 102 48 67 122 97 104 109 107 82 87 79 119 90 115 71 56 52 70 75 118 66 73 111 98 121 88 67 68 52 113 110 68 107 103 101 115 106 119 98 105 66 113 124 124 101 48 52 51 53 50 50 52 45 97 99 101 97 45 52 49 52 100 45 97 97 98 57 45 51 51 56 98 100 48 52 49 97 55 101 98 99 56 55 49 100 54 102 51 45 100 50 56 100 45 52 51 57 101 45 98 50 101 101 45 57 56 50 100 54 55 51 54 97 50 50 98]
+INFO: 2019/06/26 12:57:24 user_service.go:37: &{ObjectIdHex("") testing1 $2a$10$p8XjBvGTt8OmAKClQ3eePejrWP6C.phxcdffTpggBtCi8wmTRDsRS||c871d6f3-d28d-439e-b2ee-982d6736a22b}
+INFO: 2019/06/26 12:57:24 hash.go:21: fa33bb0f-522a-4e09-888b-00f437873735 [36 50 97 36 49 48 36 112 56 88 106 66 118 71 84 116 56 79 109 65 75 67 108 81 51 101 101 80 101 106 114 87 80 54 67 46 112 104 120 99 100 102 102 84 112 103 103 66 116 67 105 56 119 109 84 82 68 115 82 83 124 124 99 56 55 49 100 54 102 51 45 100 50 56 100 45 52 51 57 101 45 98 50 101 101 45 57 56 50 100 54 55 51 54 97 50 50 98 102 97 51 51 98 98 48 102 45 53 50 50 97 45 52 101 48 57 45 56 56 56 98 45 48 48 102 52 51 55 56 55 51 55 51 53]
+INFO: 2019/06/26 12:57:36 user_service.go:37: &{ObjectIdHex("") testing1 $2a$10$nBROu2GVVVoZ3iOTh2dA1O.2RefRzyo0saFh0Y5ggLOpjlSZ3V0Ni||fa33bb0f-522a-4e09-888b-00f437873735}
+INFO: 2019/06/26 12:57:36 hash.go:21: c359c143-ad17-4880-a235-2ecaaac440de [36 50 97 36 49 48 36 110 66 82 79 117 50 71 86 86 86 111 90 51 105 79 84 104 50 100 65 49 79 46 50 82 101 102 82 122 121 111 48 115 97 70 104 48 89 53 103 103 76 79 112 106 108 83 90 51 86 48 78 105 124 124 102 97 51 51 98 98 48 102 45 53 50 50 97 45 52 101 48 57 45 56 56 56 98 45 48 48 102 52 51 55 56 55 51 55 51 53 99 51 53 57 99 49 52 51 45 97 100 49 55 45 52 56 56 48 45 97 50 51 53 45 50 101 99 97 97 97 99 52 52 48 100 101]
+INFO: 2019/06/26 12:58:04 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 12:58:04 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 12:58:09 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 12:58:09 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 12:58:22 hash.go:21: 3ac22169-a7a8-4482-a2ab-ddb999d9204c [36 50 97 36 49 48 36 110 51 74 106 120 112 65 49 103 111 77 46 97 86 88 87 104 104 104 112 98 117 46 115 52 121 78 98 69 112 53 111 119 114 79 54 67 70 76 55 83 122 72 120 46 110 75 78 100 80 110 86 113 124 124 99 51 53 57 99 49 52 51 45 97 100 49 55 45 52 56 56 48 45 97 50 51 53 45 50 101 99 97 97 97 99 52 52 48 100 101 51 97 99 50 50 49 54 57 45 97 55 97 56 45 52 52 56 50 45 97 50 97 98 45 100 100 98 57 57 57 100 57 50 48 52 99]
+INFO: 2019/06/26 12:59:14 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 12:59:14 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 12:59:20 user.go:50: &{5d133e7f01d9b30619223083 testing1 $2a$10$n3JjxpA1goM.aVXWhhhpbu.s4yNbEp5owrO6CFL7SzHx.nKNdPnVq||c359c143-ad17-4880-a235-2ecaaac440de}
+INFO: 2019/06/26 12:59:20 hash.go:21: cac68b53-7e92-4312-9779-d03925cb6442 [36 50 97 36 49 48 36 110 51 74 106 120 112 65 49 103 111 77 46 97 86 88 87 104 104 104 112 98 117 46 115 52 121 78 98 69 112 53 111 119 114 79 54 67 70 76 55 83 122 72 120 46 110 75 78 100 80 110 86 113 124 124 99 51 53 57 99 49 52 51 45 97 100 49 55 45 52 56 56 48 45 97 50 51 53 45 50 101 99 97 97 97 99 52 52 48 100 101 99 97 99 54 56 98 53 51 45 55 101 57 50 45 52 51 49 50 45 57 55 55 57 45 100 48 51 57 50 53 99 98 54 52 52 50]
+INFO: 2019/06/26 13:00:14 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 13:00:14 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 13:00:17 user.go:50: 5d133e7f01d9b30619223083
+INFO: 2019/06/26 13:00:17 hash.go:21: 531feb47-2250-43bd-a940-20a84ac987d4 [36 50 97 36 49 48 36 110 51 74 106 120 112 65 49 103 111 77 46 97 86 88 87 104 104 104 112 98 117 46 115 52 121 78 98 69 112 53 111 119 114 79 54 67 70 76 55 83 122 72 120 46 110 75 78 100 80 110 86 113 124 124 99 51 53 57 99 49 52 51 45 97 100 49 55 45 52 56 56 48 45 97 50 51 53 45 50 101 99 97 97 97 99 52 52 48 100 101 53 51 49 102 101 98 52 55 45 50 50 53 48 45 52 51 98 100 45 97 57 52 48 45 50 48 97 56 52 97 99 57 56 55 100 52]
+INFO: 2019/06/26 13:04:40 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 13:04:40 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 13:04:47 user_service.go:44: ObjectIdHex("")
+INFO: 2019/06/26 13:05:33 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 13:05:33 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 13:05:39 user_service.go:44: 
+INFO: 2019/06/26 13:06:40 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 13:06:40 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 13:06:45 user_service.go:36: &{5d133e7f01d9b30619223083 testing1 $2a$10$n3JjxpA1goM.aVXWhhhpbu.s4yNbEp5owrO6CFL7SzHx.nKNdPnVq||c359c143-ad17-4880-a235-2ecaaac440de}
+INFO: 2019/06/26 13:07:13 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 13:07:13 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 13:07:47 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 13:07:47 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 13:07:49 user_service.go:42: &{5d133e7f01d9b30619223083 testing1 $2a$10$QeL79wJT7vOc/XIT27krIuAMkCQC4qm3r2oDTx0YqcuZpYweiSuvu||b9433b8b-729f-4580-845b-ddea910f3421}
+INFO: 2019/06/26 13:08:38 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 13:08:38 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 13:08:39 user_service.go:42: 5d133e7f01d9b30619223083
+INFO: 2019/06/26 13:09:25 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 13:09:25 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 13:09:33 user_service.go:42: 5d133e7f01d9b30619223083
+INFO: 2019/06/26 13:10:41 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 13:10:41 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 13:10:43 user_service.go:42: 5d133e7f01d9b30619223083
+INFO: 2019/06/26 13:10:49 user_service.go:42: 5d133e7f01d9b30619223083
+INFO: 2019/06/26 13:10:56 user_service.go:42: 5d133e7f01d9b30619223083
+INFO: 2019/06/26 13:14:56 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 13:14:56 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 13:15:54 app.go:28: Server is listening on: 3000
+INFO: 2019/06/26 13:15:54 session.go:17: connecting to mongo at: 127.0.0.1:27017
+INFO: 2019/06/26 13:16:10 user_service.go:42: testing2323
+INFO: 2019/06/26 14:57:34 user_service.go:42: testing
